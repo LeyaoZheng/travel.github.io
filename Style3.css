@@ -1,0 +1,31 @@
+body {
+  background-color: PapayaWhip;
+}
+button {
+  color: DarkOrange;
+}
+h1 {
+  color: DarkOrange;
+  font-family: Luminari, fantasy;
+  font-size: 40px;
+}
+p {
+  color: LightSalmon;
+  font-family: fantasy;
+  font-size: 20px
+}
+h3 {
+  color: Coral;
+  font-family: Apple Chancery, cursive;
+  font-size: 25px;
+}
+ul {
+  color: LightSalmon;
+  font-family: fantasy;
+  font-size: 20px;
+}
+a {
+  color: LightSalmon;
+  font-family: fantasy;
+  font-size: 20px;
+}

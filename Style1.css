@@ -1,0 +1,31 @@
+body {
+  background-color: AliceBlue;
+}
+button {
+  color: DodgerBlue
+}
+h1 {
+  color: DodgerBlue;
+  font-family: Didot, serif;
+  font-size: 40px;
+}
+p {
+  color: Gray;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px
+}
+h3 {
+  color: CornflowerBlue;
+  font-family: Didot, serif;
+  font-size: 25px;
+}
+ul {
+  color: Gray;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+}
+a {
+  color: Gray;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+}

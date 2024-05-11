@@ -1,0 +1,31 @@
+body {
+  background-color: MistyRose;
+}
+button {
+  color: LightCoral;
+}
+h1 {
+  color: LightCoral;
+  font-family: Bookman, URW Bookman L, serif;
+  font-size: 45px;
+}
+p {
+  color: Salmon;
+  font-family: cursive;
+  font-size: 23px
+}
+h3 {
+  color: PaleVioletRed;
+  font-family: URW Chancery L, cursive;
+  font-size: 25px;
+}
+ul {
+  color: Salmon;
+  font-family: cursive;
+  font-size: 23px;
+}
+a {
+  color: Salmon;
+  font-family: cursive;
+  font-size: 23px;
+}
